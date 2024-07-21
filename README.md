@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musa Yılmaz</h1>
-<h3 align="center">A passionate Data Scientist/Analyst student from Türkiye</h3>
+<h3 align="center">I am Musa Yılmaz, a recent graduate with a degree in Management Information Systems from İzmir Bakırçay University. With a strong academic foundation in information technologies, data analysis, programming, marketing, and project management, I am passionate about leveraging my skills to drive innovation and efficiency.
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
